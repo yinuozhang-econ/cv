@@ -1,0 +1,7 @@
+# put specific file, folder *.dta
+
+
+*.dta
+*.DS_Store
+*.zip
+*.tex
